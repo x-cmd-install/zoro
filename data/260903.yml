@@ -1,11 +1,13 @@
 about:
-  description: zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration.
+  description:
+  |
+    zoro can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.  Zero-Configuration.
   license: GPL-3.0
   homepage: https://www.txthinking.com
   head: 3c35a94
   archived: false
   latestVersion: v20240828
-  collectedAt: 2026-09-03T05:28:41Z
+  collectedAt: 2026-09-03T22:34:29Z
 timeline:
   created: 2019-04-25
   lastCommit: 2026-01-07
@@ -21,7 +23,7 @@ popularity:
 language:
   Go: 50041
   Shell: 1633
-totalLine: 51674
+totalBytes: 51674
 recent:
   last30d:
     since: 2026-08-04
@@ -54,4 +56,4 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 4
+    commit: 0
