@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 16105624,
       "digest": null,
-      "download_count": 82,
+      "download_count": 83,
       "created_at": "2024-08-28T15:47:34Z",
       "updated_at": "2024-08-28T15:47:46Z",
       "browser_download_url": "https://github.com/txthinking/zoro/releases/download/v20240828/zoro_linux_amd64"
