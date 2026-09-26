@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 16085154,
       "digest": null,
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2024-08-28T15:47:26Z",
       "updated_at": "2024-08-28T15:47:30Z",
       "browser_download_url": "https://github.com/txthinking/zoro/releases/download/v20240828/zoro_freebsd_amd64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 16105624,
       "digest": null,
-      "download_count": 101,
+      "download_count": 102,
       "created_at": "2024-08-28T15:47:34Z",
       "updated_at": "2024-08-28T15:47:46Z",
       "browser_download_url": "https://github.com/txthinking/zoro/releases/download/v20240828/zoro_linux_amd64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 16105752,
       "digest": null,
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2024-08-28T15:47:54Z",
       "updated_at": "2024-08-28T15:47:56Z",
       "browser_download_url": "https://github.com/txthinking/zoro/releases/download/v20240828/zoro_openbsd_amd64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 15597848,
       "digest": null,
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2024-08-28T15:47:56Z",
       "updated_at": "2024-08-28T15:47:58Z",
       "browser_download_url": "https://github.com/txthinking/zoro/releases/download/v20240828/zoro_openbsd_arm64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 15721472,
       "digest": null,
-      "download_count": 61,
+      "download_count": 62,
       "created_at": "2024-08-28T15:47:58Z",
       "updated_at": "2024-08-28T15:48:00Z",
       "browser_download_url": "https://github.com/txthinking/zoro/releases/download/v20240828/zoro_windows_386.exe"
